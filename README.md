@@ -1,4 +1,4 @@
-# Personal Skills
+﻿# Personal Skills
 
 A collection of my personal skills for AI coding agents.
 
@@ -16,6 +16,8 @@ To install a single skill, point at its directory. Or just copy the `skills/<nam
 
 | Skill | What it does |
 | ----- | ------------ |
+| [feature-first-architecture](skills/feature-first-architecture/SKILL.md) | Enforce feature-first architecture for React/TypeScript frontends - organize code by domain (`app/pages/features/shared`), direct dependency flow, and keep `.tsx` composition-focused. |
 | [readable-react](skills/readable-react/SKILL.md) | Write and refactor React components with composition and readability as the primary goals: main component on top reading like a high-level description of the UI, implementation details in small named components and helpers below. |
 | [missing-non-happy-states](skills/missing-non-happy-states/SKILL.md) | Audit and improve frontend features for complete loading, empty, error, offline, partial, permission, malformed-data, and recovery state coverage. |
 | [product-coherence](skills/product-coherence/SKILL.md) | Enforce design-system consistency and product-specific hierarchy across screens: design tokens over hardcoded values, component reuse over duplication, consistent terminology and interaction patterns, and cross-screen validation so every screen feels like the same product. |
+

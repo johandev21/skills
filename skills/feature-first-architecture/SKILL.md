@@ -1,4 +1,4 @@
-﻿---
+---
 name: feature-first-architecture
 description: Enforce feature-first architecture for React/TypeScript frontends - organize code by domain (app/pages/features/shared), direct dependency flow, promote to shared only after reuse, keep .tsx composition-focused. Use when scaffolding features, reviewing structure, moving code between feature/shared, or auditing imports and layering.
 ---

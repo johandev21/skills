@@ -1,4 +1,4 @@
-﻿# Personal Skills
+# Personal Skills
 
 A collection of my personal skills for AI coding agents.
 
@@ -22,4 +22,6 @@ To install a single skill, point at its directory. Or just copy the `skills/<nam
 | [product-coherence](skills/product-coherence/SKILL.md) | Enforce design-system consistency and product-specific hierarchy across screens: design tokens over hardcoded values, component reuse over duplication, consistent terminology and interaction patterns, and cross-screen validation so every screen feels like the same product. |
 | [flashcards](skills/flashcards/SKILL.md) | Turn source material into high-quality Anki flashcards - one atomic fact per card, active recall, standalone prompts - and push them into Anki automatically in source order, skipping duplicates. |
 | [no-ui-slop](skills/no-ui-slop/SKILL.md) | Eliminate generic AI-generated UI patterns into intentional product interfaces: hierarchy through type and spacing before containers, one restrained visual system, justified decoration, and task-fit density. |
+| [mobile-native-web-design](skills/mobile-native-web-design/SKILL.md) | Build or audit mobile-native web interfaces for phones: thumb-zone ergonomics, touch targets (≥44px), safe areas (`env(safe-area-inset-*)`), iOS zoom prevention, instant active feedback, and mobile component adaptations. |
+| [tablet-native-web-design](skills/tablet-native-web-design/SKILL.md) | Build or audit adaptive tablet and medium-width web interfaces (600–1200px): window size classes, multi-pane layouts (list-detail, supporting panes), multi-modal input (touch, keyboard, pointer, pen), and non-destructive reflow. |
 
